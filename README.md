@@ -48,3 +48,7 @@ ver1.0.9 / 2020.04.08
 
 
 演示页：https://yws.tokyo/bunnypresslite-demo/
+作者：https://yws.tokyo/
+汉化人员：https：www.yishiai.com
+
+# 如有汉化问题请联系我，主题为免费不收取任何没用包括汉化文件，谢谢！
