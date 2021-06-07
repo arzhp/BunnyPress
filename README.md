@@ -1,3 +1,4 @@
+![Image text]( )
 # BunnyPress
 由Tossy的web服务（日语）创建的WordPress模板“BunnyPress”的轻版本。快速响应、移动优先、结构化标记。在某种程度上，我可以使用来自主题定制器的设计。由亦是爱网络汉化 https://www.yishiai.com
 
@@ -48,7 +49,12 @@ ver1.0.9 / 2020.04.08
 
 
 演示页：https://yws.tokyo/bunnypresslite-demo/
-作者：https://yws.tokyo/
-汉化人员：https：www.yishiai.com
 
-# 如有汉化问题请联系我，主题为免费不收取任何没用包括汉化文件，谢谢！
+作者：https://yws.tokyo/
+
+汉化：https：www.yishiai.com
+
+
+# 如有汉化问题请联系我，主题为免费不收取任何费用包括汉化文件，谢谢！
+
+
