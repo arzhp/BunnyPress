@@ -1,0 +1,207 @@
+.customize-control-title {
+	margin:20px 0 0;
+	font-size:1.1em;
+	padding:1em 0 0.5em;
+	border-top:2px solid #ddd;
+	color:#000;
+}
+.customize-control-title:before {
+	font-family: "dashicons";
+	content: "\f107";
+	color:#999;
+	margin:0 3px 0 0;
+}
+.slider_title{
+	background:#ccc;
+	padding:10px;
+	font-size:1.5em;
+	margin:80px 0 0;
+	text-align:center;
+	color:#000;
+}
+.slider_title:before{
+	font-family: "dashicons";
+	content: "\f208";
+	color:#999;
+	margin:0 10px 0 0;
+}
+.slider_title:after{
+	font-family: "dashicons";
+	content: "\f206";
+	color:#999;
+	margin:0 0 0 10px;
+}
+
+.decotop{
+	margin:10px 0 0 !important;
+}
+.deco_title{
+	background: #eeeeee;
+	background: -moz-linear-gradient(top,  #eeeeee 0%, #cccccc 100%);
+	background: -webkit-linear-gradient(top,  #eeeeee 0%,#cccccc 100%);
+	background: linear-gradient(to bottom,  #eeeeee 0%,#cccccc 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#cccccc',GradientType=0 );
+	box-shadow: 0px 0px 3px #666 ;
+	-moz-box-shadow: 0px 0px 3px #666 ;
+	-webkit-box-shadow: 0px 0px 3px #666 ;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	padding:15px;
+	font-size:1.5em;
+	margin:80px 0 0;
+	text-align:center;
+	color:#000;
+}
+.deco_t_sub_title{
+	background: #666;
+	box-shadow: 0px 0px 10px #666 ;
+	-moz-box-shadow: 0px 0px 10px #666 ;
+	-webkit-box-shadow: 0px 0px 10px #666 ;
+	border-radius: 30px 30px 0 0;
+	-moz-border-radius: 30px 30px 0 0;
+	-webkit-border-radius: 30px 30px 0 0;
+	padding:10px;
+	font-size:1.2em;
+	margin:30px 0 -10px;
+	text-align:center;
+	color:#fff;
+}
+.top_border {
+	border-top:2px solid #fcf;
+}
+.left_border {
+	border-left:2px solid #fcf;
+	padding-left:5px;
+}
+.right_border {
+	border-right:2px solid #fcf;
+	padding-right:5px;
+}
+.bottom_border {
+	border-bottom:2px solid #fcf;
+}
+
+.deco_sub_title_t{
+	background: #666;
+	box-shadow: 0px 0px 10px #666 ;
+	-moz-box-shadow: 0px 0px 10px #666 ;
+	-webkit-box-shadow: 0px 0px 10px #666 ;
+	border-radius: 30px 30px 0 0;
+	-moz-border-radius: 30px 30px 0 0;
+	-webkit-border-radius: 30px 30px 0 0;
+	padding:10px;
+	font-size:1.2em;
+	margin:30px 0 -10px;
+	text-align:center;
+	color:#fff;
+	border-top:2px solid #fcf;
+}
+.deco_sub_title_l{
+	background: #666;
+	box-shadow: 0px 0px 10px #666 ;
+	-moz-box-shadow: 0px 0px 10px #666 ;
+	-webkit-box-shadow: 0px 0px 10px #666 ;
+	border-radius: 30px 30px 0 0;
+	-moz-border-radius: 30px 30px 0 0;
+	-webkit-border-radius: 30px 30px 0 0;
+	padding:10px;
+	font-size:1.2em;
+	margin:30px 0 -10px;
+	text-align:center;
+	color:#fff;
+	border-left:3px solid #fcf;
+}
+.deco_sub_title_r{
+	background: #666;
+	box-shadow: 0px 0px 10px #666 ;
+	-moz-box-shadow: 0px 0px 10px #666 ;
+	-webkit-box-shadow: 0px 0px 10px #666 ;
+	border-radius: 30px 30px 0 0;
+	-moz-border-radius: 30px 30px 0 0;
+	-webkit-border-radius: 30px 30px 0 0;
+	padding:10px;
+	font-size:1.2em;
+	margin:30px 0 -10px;
+	text-align:center;
+	color:#fff;
+	border-right:3px solid #fcf;
+}
+.deco_sub_title_b{
+	background: #666;
+	box-shadow: 0px 0px 10px #666 ;
+	-moz-box-shadow: 0px 0px 10px #666 ;
+	-webkit-box-shadow: 0px 0px 10px #666 ;
+	border-radius: 30px 30px 0 0;
+	-moz-border-radius: 30px 30px 0 0;
+	-webkit-border-radius: 30px 30px 0 0;
+	padding:10px;
+	font-size:1.2em;
+	margin:30px 0 -10px;
+	text-align:center;
+	color:#fff;
+	border-bottom:2px solid #fcf;
+}
+
+.f148:after{
+	font-family: "dashicons";
+	content: "\f148";
+	vertical-align:middle;
+	transform: scale(-1, 1);
+}
+.f344:after{
+	font-family: "dashicons";
+	content: "\f344";
+	vertical-align:middle;
+}
+.f345:after{
+	font-family: "dashicons";
+	content: "\f345";
+	vertical-align:middle;
+}
+.f522:after{
+	font-family: "dashicons";
+	content: "\f522";
+	vertical-align:middle;
+}
+.f474:after{
+	font-family: "dashicons";
+	content: "\f474";
+	vertical-align:middle;
+	transform: scale(-1, 1);
+}
+.f109:after{
+	font-family: "dashicons";
+	content: "\f109";
+	vertical-align:middle;
+}
+.f236:after{
+	font-family: "dashicons";
+	content: "\f236";
+	vertical-align:middle;
+}
+.f180:after{
+	font-family: "dashicons";
+	content: "\f180";
+	vertical-align:middle;
+}
+.f313:after{
+	font-family: "dashicons";
+	content: "\f313";
+	vertical-align:middle;
+}
+.f155:after{
+	font-family: "dashicons";
+	content: "\f155";
+	vertical-align:middle;
+}
+
+.icon_demo div{
+	float:left;
+	width:20%;
+	text-align:center;
+	padding:0 0 10px;
+}
+.icon_demo div:after{
+	font-size:2.5em;
+}

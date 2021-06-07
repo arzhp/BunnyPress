@@ -1,0 +1,61 @@
+#bunnypresslite-pagetop{
+	height:0;
+	opacity:0;
+	transition: 0.3s;
+	visibility:hidden;
+}
+#bunnypresslite-pagetop.fixed{
+	height:auto;
+	opacity:.7;
+	visibility:visible;
+}
+.pagetop a {
+	width:45px;
+	height:45px;
+	background:#aaa;
+	z-index:1;
+}
+.totop1 a,.totop2 a,.totop3 a,.totop4 a,.totop5 a,.totop6 a{
+	position: fixed;
+	bottom:0px;
+	right:0;
+}
+.totop2 a {
+	bottom:60px;
+}
+.totop3 a {
+	bottom:120px;
+}
+.totop1 a:before,.totop2 a:before,.totop3 a:before,.totop5 a:before,.totop6 a:before {
+	content:"";
+	border: solid transparent;
+	border-left-color:#fff;
+	border-width:12px;
+	position: absolute;
+	top: 0px;
+	left:25%;
+	transform: rotate(-90deg);
+}
+.totop1 a:after,.totop2 a:after,.totop3 a:after,.totop5 a:after,.totop6 a:after {
+	content:"";
+	width:10px;
+	height:10px;
+	background:#fff;
+	position: absolute;
+	top: 24px;
+	left:40%;
+	display:block;
+}
+.totop1 a:hover,.totop2 a:hover,.totop3 a:hover,.totop5 a:hover,.totop6 a:hover {
+	color:#fff;
+	opacity: 1;
+	text-decoration: none;
+}
+@media screen and (max-width: 559px) {
+.totop5 a {
+	bottom:60px;
+}
+.totop6 a {
+	bottom:120px;
+}
+}

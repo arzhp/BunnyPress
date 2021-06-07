@@ -1,0 +1,12 @@
+@media screen and (min-width: 769px) {
+.footerwidget {
+	width:16%;
+	margin:0 2%;
+}
+.footerwidget {
+	float:left;
+}
+.footerwidget:nth-child(5n+1) {
+	clear: left;
+}
+}
